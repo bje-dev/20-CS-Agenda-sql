@@ -1,0 +1,6 @@
+C:\Users\master\source\repos\20-CS-Agenda-sql\CS Agenda\Dominio\bin\Debug\Dominio.dll
+C:\Users\master\source\repos\20-CS-Agenda-sql\CS Agenda\Dominio\bin\Debug\Dominio.pdb
+C:\Users\master\source\repos\20-CS-Agenda-sql\CS Agenda\Dominio\obj\Debug\Dominio.csprojAssemblyReference.cache
+C:\Users\master\source\repos\20-CS-Agenda-sql\CS Agenda\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\master\source\repos\20-CS-Agenda-sql\CS Agenda\Dominio\obj\Debug\Dominio.dll
+C:\Users\master\source\repos\20-CS-Agenda-sql\CS Agenda\Dominio\obj\Debug\Dominio.pdb

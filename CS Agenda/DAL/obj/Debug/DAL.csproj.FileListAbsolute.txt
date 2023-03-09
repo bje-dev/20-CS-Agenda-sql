@@ -1,0 +1,9 @@
+C:\Users\master\source\repos\20-CS-Agenda-sql\CS Agenda\DAL\bin\Debug\DAL.dll
+C:\Users\master\source\repos\20-CS-Agenda-sql\CS Agenda\DAL\bin\Debug\DAL.pdb
+C:\Users\master\source\repos\20-CS-Agenda-sql\CS Agenda\DAL\bin\Debug\Dominio.dll
+C:\Users\master\source\repos\20-CS-Agenda-sql\CS Agenda\DAL\bin\Debug\Dominio.pdb
+C:\Users\master\source\repos\20-CS-Agenda-sql\CS Agenda\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\master\source\repos\20-CS-Agenda-sql\CS Agenda\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\master\source\repos\20-CS-Agenda-sql\CS Agenda\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\master\source\repos\20-CS-Agenda-sql\CS Agenda\DAL\obj\Debug\DAL.dll
+C:\Users\master\source\repos\20-CS-Agenda-sql\CS Agenda\DAL\obj\Debug\DAL.pdb
